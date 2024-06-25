@@ -1,5 +1,7 @@
 # gleam agency site
 
+See [TODO.org](TODO.org) for development tasks.
+
 # development
 
 prerequisities: [bun.sh](https://bun.sh)
