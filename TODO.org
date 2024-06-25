@@ -5,14 +5,16 @@
     - [ ] insta, FB accounts for links and SEO
 * Accessories
     - [ ] collect feedback
-          [astuto](https://astuto.io/) or [fider](https://fider.io/)
+          [[astuto][https://astuto.io/]] or [[fider][https://fider.io/]]
     - [ ] analytics
-          [Google Analytics](https://analytics.google.com/) or [open source](https://posthog.com/blog/best-open-source-analytics-tools)
+          [[Google Analytics][https://analytics.google.com/]] or 
+          [[open source][https://posthog.com/blog/best-open-source-analytics-tools]]
     - [ ] session replay
-          [openreplay](https://openreplay.com/), [highlight.io/](https://www.highlight.io/), [tianji](https://tianji.msgbyte.com/)
+          [[openreplay][https://openreplay.com/]], [[highlight.io/][https://www.highlight.io/]], 
+          [[tianji][https://tianji.msgbyte.com/]]
 * Deploy
     - [ ] provision site on hentzner instance
     - [ ] configure gleampro.net domain
 * Testing
-    - [ ] use checklists [dev checklist](https://www.toptal.com/developers/webdevchecklist)
+    - [ ] use dev checklists [[dev checklist][https://www.toptal.com/developers/webdevchecklist]]
     - [ ] playwright e2e tests with video capture
