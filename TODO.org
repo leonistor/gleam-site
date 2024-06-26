@@ -3,7 +3,13 @@
     - [ ] brand colors in config file
 * Content
     - [ ] insta, FB accounts for links and SEO
-* Accessories
+    - [ ] favicon
+    - [ ] app icons (PWA)
+    - [ ] add credits to template: https://styleshout.com/free-templates/
+* Marketing
+    - [ ] SEO
+* Tools
+    - [ ] use automated releases with [[release-it][https://github.com/release-it/release-it]]
     - [ ] collect feedback
           [[astuto][https://astuto.io/]] or [[fider][https://fider.io/]]
     - [ ] analytics
@@ -13,8 +19,11 @@
           [[openreplay][https://openreplay.com/]], [[highlight.io/][https://www.highlight.io/]], 
           [[tianji][https://tianji.msgbyte.com/]]
 * Deploy
+    - [ ] deploy to ghpages for testing
     - [ ] provision site on hentzner instance
     - [ ] configure gleampro.net domain
 * Testing
     - [ ] use dev checklists [[dev checklist][https://www.toptal.com/developers/webdevchecklist]]
     - [ ] playwright e2e tests with video capture
+
+# reference: https://github.com/fniessen/refcard-org-mode
