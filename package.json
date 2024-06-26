@@ -1,6 +1,6 @@
 {
   "name": "gleam-site",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "dev": "bunx --bun vite dev --host --clearScreen=false",
