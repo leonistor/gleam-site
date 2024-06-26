@@ -2,9 +2,9 @@
 
 See [TODO.org](TODO.org) for development tasks.
 
-# development
+## development
 
-prerequisities: [bun.sh](https://bun.sh)
+prerequisites: [bun.sh](https://bun.sh)
 
 - install dependencies: `bun install`
 - run dev server: `bun run dev`
@@ -12,3 +12,9 @@ prerequisities: [bun.sh](https://bun.sh)
 - unit tests: `bun run test:unit`
 - install playwright for integration test `bunx playwright install`
 - integration tests: `bun run test:integration`
+
+---
+
+## misc
+
+- [whatsapp button](https://codepen.io/demoonkevin/pen/MvPEpV)
