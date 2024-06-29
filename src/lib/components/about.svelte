@@ -1,1 +1,4 @@
-<h3>About</h3>
+<!-- about
+        ----------------------------------------------- -->
+<section id="about" class="s-about target-section">about</section>
+<!-- end s-about -->

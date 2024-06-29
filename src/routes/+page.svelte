@@ -4,6 +4,13 @@
   import Intro from '$lib/components/intro.svelte'
 </script>
 
-<Header />
-<Intro />
-<About />
+<div id="page" class="s-pagewrap">
+  <Header />
+
+  <!-- # site-content
+    ================================================== -->
+  <section id="content" class="s-content">
+    <Intro />
+    <About />
+  </section>
+</div>
