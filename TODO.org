@@ -1,6 +1,14 @@
 * Design
     - [ ] logo format SVG
     - [ ] brand colors in config file
+* Booth template --> tailwindcss
+    - [ ] add design elements: logo, colors, fonts
+    - [ ] add shadcn, tailwind
+    - [ ] sticky screens layout
+    - [ ] add content in screens
+    - [ ] skeleton other pages
+    - [ ] top/menu navigation
+    - [ ] light/dark switch
 * Content
     - [ ] insta, FB accounts for links and SEO
     - [ ] favicon
