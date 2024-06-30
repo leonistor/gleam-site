@@ -15,6 +15,19 @@ prerequisites: [bun.sh](https://bun.sh)
 
 ---
 
-## misc
+## components
 
 - [whatsapp button](https://codepen.io/demoonkevin/pen/MvPEpV)
+- gooey btn: https://svelte-ux.techniq.dev/docs/components/Gooey
+
+## deploy guides
+
+- cloudflare: https://medium.com/@nicoletsylvain/how-to-to-setup-svelte-tailwindcss-daisyui-and-deploy-to-cloudflare-9deee49db418
+- netlify: https://www.netlify.com/blog/2020/05/25/deploying-svelte-apps-to-netlify/
+- vercel: https://vercel.com/docs/v2/build-steps/svelte
+- vercel:
+
+## sveltekit guides
+
+- favicon: https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+- fonts +other: https://scottspence.com/posts/customising-fonts-in-tailwind-css-and-daisyui
