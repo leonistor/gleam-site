@@ -19,6 +19,7 @@ prerequisites: [bun.sh](https://bun.sh)
 
 - [whatsapp button](https://codepen.io/demoonkevin/pen/MvPEpV)
 - gooey btn: https://svelte-ux.techniq.dev/docs/components/Gooey
+- https://magicui.design/docs/components/shimmer-button
 
 ## deploy guides
 
@@ -31,3 +32,10 @@ prerequisites: [bun.sh](https://bun.sh)
 
 - favicon: https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 - fonts +other: https://scottspence.com/posts/customising-fonts-in-tailwind-css-and-daisyui
+
+## tailwind resources
+
+- https://flowrift.com/c/banner
+- https://www.hyperui.dev/
+- https://wind-ui.com/components/
+
