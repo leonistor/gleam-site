@@ -26,7 +26,6 @@ prerequisites: [bun.sh](https://bun.sh)
 - cloudflare: https://medium.com/@nicoletsylvain/how-to-to-setup-svelte-tailwindcss-daisyui-and-deploy-to-cloudflare-9deee49db418
 - netlify: https://www.netlify.com/blog/2020/05/25/deploying-svelte-apps-to-netlify/
 - vercel: https://vercel.com/docs/v2/build-steps/svelte
-- vercel:
 
 ## sveltekit guides
 
@@ -38,4 +37,5 @@ prerequisites: [bun.sh](https://bun.sh)
 - https://flowrift.com/c/banner
 - https://www.hyperui.dev/
 - https://wind-ui.com/components/
+- templates: https://htmlrev.com/free-tailwind-templates.html
 
