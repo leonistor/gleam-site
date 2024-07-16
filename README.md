@@ -2,6 +2,11 @@
 
 See [TODO.org](TODO.org) for development tasks.
 
+
+## inspiration
+
+- https://www.akqa.com
+
 ## development
 
 prerequisites: [bun.sh](https://bun.sh)
@@ -20,6 +25,7 @@ prerequisites: [bun.sh](https://bun.sh)
 - [whatsapp button](https://codepen.io/demoonkevin/pen/MvPEpV)
 - gooey btn: https://svelte-ux.techniq.dev/docs/components/Gooey
 - https://magicui.design/docs/components/shimmer-button
+- animated headline: https://github.com/elron/svelte-animated-headline
 
 ## deploy guides
 
@@ -30,6 +36,7 @@ prerequisites: [bun.sh](https://bun.sh)
 ## sveltekit guides
 
 - favicon: https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+- better favicon: https://www.youtube.com/watch?v=T8uBpU8NcFE
 - fonts +other: https://scottspence.com/posts/customising-fonts-in-tailwind-css-and-daisyui
 
 ## tailwind resources
@@ -38,6 +45,17 @@ prerequisites: [bun.sh](https://bun.sh)
 - https://www.hyperui.dev/
 - https://wind-ui.com/components/
 - templates: https://htmlrev.com/free-tailwind-templates.html
+
+## tailwind components/elements
+
+- https://magicui.design/docs
+- https://ui.aceternity.com/components
+
+
+## tailwind plugins
+
+- fluid typography: https://fluid.tw/
+- 3d transform: https://xpd-kasun.github.io/tailwind-3dtransform-plugin/
 
 ---
 
