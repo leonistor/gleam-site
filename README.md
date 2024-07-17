@@ -57,6 +57,25 @@ prerequisites: [bun.sh](https://bun.sh)
 - fluid typography: https://fluid.tw/
 - 3d transform: https://xpd-kasun.github.io/tailwind-3dtransform-plugin/
 
+## text animations
+
+- text splitter used w/ anim.js: https://www.spltjs.com/
+- examples moving letters: https://tobiasahlin.com/moving-letters/
+
+## splash screen
+
+- vite plugin: https://github.com/Temzasse/vite-plugin-splash-screen
+
+## anime.js
+
+- docs: https://animejs.com/documentation/
+- tut series: https://blog.dotenx.com/become-an-animation-master-with-animejs-setting-up-the-environment-and-basic-animations
+- in playlist: https://www.youtube.com/playlist?list=PLjcjAqAnHd1GCBHUYjCzCcB8Mk4aQs1Yd
+
+## motion one
+
+- https://motion.dev/docs
+
 ---
 
 ## color palette - proposal 1
