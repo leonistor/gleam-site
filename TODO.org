@@ -25,5 +25,6 @@
 * Testing
     - [ ] use dev checklists [[dev checklist][https://www.toptal.com/developers/webdevchecklist]]
     - [ ] playwright e2e tests with video capture
+    - [ ] check screen sizes: https://gs.statcounter.com/screen-resolution-stats/all/romania
 
 # reference: https://github.com/fniessen/refcard-org-mode
