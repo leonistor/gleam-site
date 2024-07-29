@@ -1,6 +1,8 @@
 * Design
     - [ ] logo format SVG
     - [ ] brand colors in config file
+* Moodboad
+    - [ ] moodboad
 * Content
     - [ ] insta, FB accounts for links and SEO
     - [ ] favicon

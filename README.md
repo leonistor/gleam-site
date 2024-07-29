@@ -7,6 +7,11 @@ See [TODO.org](TODO.org) for development tasks.
 
 - https://www.akqa.com
 
+
+## font
+
+- just system: https://modernfontstacks.com/, use 'industrial': https://github.com/system-fonts/modern-font-stacks#industrial
+
 ## development
 
 prerequisites: [bun.sh](https://bun.sh)
@@ -65,6 +70,9 @@ prerequisites: [bun.sh](https://bun.sh)
 ## splash screen
 
 - vite plugin: https://github.com/Temzasse/vite-plugin-splash-screen
+- component in https://github.com/juspay/svelte-ui-components
+- YouTube-like Page Loading Animation: https://dev.to/shajidhasan/add-a-youtube-like-page-loading-animation-in-sveltekit-58kp
+
 
 ## anime.js
 
